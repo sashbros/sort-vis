@@ -1,0 +1,29 @@
+.container {
+    position: absolute;
+    left: 75px;
+    right: 75px;
+    bottom: 20px;
+    top: 20px;
+}
+
+.container Button {
+    margin: 10px 10px;
+}
+
+.bar {
+    width: 4px;
+    display: inline-block;
+    margin: 0 2px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
